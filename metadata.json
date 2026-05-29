@@ -1,0 +1,10 @@
+{
+  "name": "Company Log Sheet App",
+  "description": "A location-bound time sheet and log sheet application with geofencing, geotagging, and role-based access control.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
